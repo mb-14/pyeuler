@@ -6,7 +6,7 @@ How to use
 ----------
 
     >> import pyeuler
-    >> user = Pyeuler.User('username','password')
+    >> user = pyeuler.User('username','password')
     >> user.language
     Python
     >> user.problems_solved
